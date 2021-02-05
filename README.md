@@ -1,26 +1,19 @@
-Litecoin Core integration/staging tree
+CreamtoeCoin Core [CRT]
 =====================================
+<img src="https://cdn.shopify.com/s/files/1/0531/4730/4126/files/CreamtoeCoin-72dpi-360x357_360x.png?v=1611711429" alt="CreamtoeCoin" style="max-width:100%;">
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
-https://litecoin.org
-
-What is Litecoin?
+What is CreamtoeCoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
-software which enables the use of this currency.
+CreamtoeCoin is a ERC-20 token, based on Ethereum.
+We are still in the early development phase, researching the best use cases for our own DeFi products and DeFi services.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+For more information, visit [https://creamtoecoin.com](https://creamtoecoin.com).
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+CreamtoeCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
